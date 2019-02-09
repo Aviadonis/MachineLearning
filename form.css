@@ -1,0 +1,41 @@
+#bobby
+{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+#table
+{
+    text-align: center;
+    font-family:'Times New Roman', Times, serif;
+}
+#border
+{
+    align-content: center center;
+    border:1px solid black;
+    width:400px;
+    height: 200px;
+    border-block-end-color: black;
+    border-radius: 1em;
+    margin:0 auto;
+    vertical-align:top;
+    padding: 1em;
+    padding-bottom: 50px;
+    
+}
+#growl
+{
+    border: 3px solid black;
+    height: 400px;
+    margin-top: 1em;
+    width: 800px;
+    padding-top: 100px;
+    margin: auto;
+}
+#button
+{
+    margin-left: .5em;
+}
+#poptxt
+{
+    text-align: center center;
+}
